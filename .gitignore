@@ -1,3 +1,7 @@
-data/
 *.pth
+*.tgz
+*.jovianrc
+*.ipynb_checkpoints
+data/
+
 

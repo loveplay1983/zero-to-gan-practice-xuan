@@ -1,7 +1,10 @@
 *.pth
 *.tgz
+*.jpg
+*.png
 .jovianrc
 .ipynb_checkpoints
 data/
+animefacedataset/
 
 
